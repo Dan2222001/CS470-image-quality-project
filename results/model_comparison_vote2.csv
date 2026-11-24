@@ -1,0 +1,5 @@
+Model,Macro F1,Mean Balanced Accuracy
+ConvNeXt Tiny,0.5652698,0.7005001
+ConvNeXt Base,0.5468701,0.6918231
+ResNet18 (448),0.5411501,0.6867257
+ResNet18 (224),0.5316042,0.68250036
